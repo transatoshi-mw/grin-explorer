@@ -1,5 +1,7 @@
-# Grincoin.org (GRIN) Blockchain Explorer
-Blockchain explorer for Grin cryptocurrency.
+# Grincoin.org (GRIN) Blockchain Explorer Re-skin
+Fork of the Grincoin.org blockchain explorer for the Grin cryptocurrency with proper theming.
+
+![Screenshot from 2025-05-26 22-54-37](https://github.com/user-attachments/assets/3c4a39b0-49c0-4b5d-aef2-22d32b2de28c)
 
 ## What is Grin?
 Grin is the very first, simple and fair MimbleWimble blockchain implementation.
