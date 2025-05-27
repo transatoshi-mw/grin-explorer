@@ -3,7 +3,7 @@
 }
 
 .darkorange-text {
-  color: #FF7518 !important;
+  color: #fef102 !important;
 }
 
 .green-text {
@@ -71,7 +71,7 @@ footer {
 }
 
 .dark-mode .darkorange-text {
-  color: #f2a900 !important;
+  color: #fef102 !important;
 }
 
 .dark-mode .darkgray-text {
@@ -79,7 +79,7 @@ footer {
 }
 
 .dark-mode .navbar-toggler {
-  background-color: #f2a900 !important;
+  background-color: #fef102 !important;
 }
 
 .dark-mode input,
@@ -94,8 +94,8 @@ footer {
 }
 
 .dark-mode a {
-  border-color: #14151a !important;
-  background-color: #14151a !important;
+  border-color: #030303 !important;
+  background-color: #0c0c0c !important;
 }
 
 .dark-mode button {
@@ -135,13 +135,13 @@ footer {
 
 .dark-mode div.card,
 .dark-mode a.card {
-  background-color: #14151a;
+  background-color: #0c0c0c;
   color: silver;
   border-color: #1f2029;
 }
 
 .dark-mode .bg-style {
-  background-color: #14151a !important;
+  background-color: #0c0c0c !important;
 }
 
 .dark-mode .card-background {
