@@ -3,7 +3,7 @@
 }
 
 .darkorange-text {
-  color: #FF7518 !important;
+  color: #fef102 !important;
 }
 
 .green-text {
@@ -94,14 +94,14 @@ footer {
 }
 
 .dark-mode a {
-  border-color: #14151a !important;
-  background-color: #14151a !important;
+  border-color: #0c0c0c !important;
+  background-color: #0c0c0c !important;
 }
 
 .dark-mode button {
   color: grey !important;
-  background-color: #14151a !important;
-  border-color: #14151a !important;
+  background-color: #0c0c0c !important;
+  border-color: #0c0c0c !important;
   border: 0;
 } 
 
@@ -129,23 +129,23 @@ footer {
 }
 
 .dark-mode {
-  background-color: #1f2029 !important;
+  background-color: #0c0c0c !important;
   color: silver !important;
 }
 
 .dark-mode div.card,
 .dark-mode a.card {
-  background-color: #14151a;
+  background-color: #0c0c0c;
   color: silver;
   border-color: #1f2029;
 }
 
 .dark-mode .bg-style {
-  background-color: #14151a !important;
+  background-color: #0c0c0c !important;
 }
 
 .dark-mode .card-background {
-  background-color: #1f2029 !important;
+  background-color: #0c0c0c !important;
 }
 
 .dark-mode a,
@@ -182,12 +182,12 @@ footer {
 }
 
 .dark-mode .modal-header {
-  background-color: #14151a;
+  background-color: #0c0c0c;
   border-style: none;
 }
 
 .dark-mode .modal-body {
-  background-color: #1f2029;
+  background-color: #0c0c0c;
   border-style: none;
 }
 
@@ -213,5 +213,5 @@ footer {
 }
 
 .dark-mode footer {
-  background-color: #14151a;
+  background-color: #0c0c0c;
 }
